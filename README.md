@@ -39,13 +39,17 @@ chmod +x setup.sh
 
 
 ## Atajos de teclado
+# Aplicaciones
+- <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>: Abrir Firefox.
+- <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>: Abrir Burpsuite.
 - <kbd>Windows</kbd> + <kbd>Enter</kbd>: Abrir una ventana de emulador de terminal (kitty).
-- <kbd>Windows</kbd> + <kbd>W</kbd>: Cerrar la ventana actual.
-- <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>R</kbd>: Reiniciar la configuración de bspwm.
-- <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd>: Cerrar sesión.
-- <kbd>Windows</kbd> + <kbd>(⬆⬅⬇➡)</kbd>: Navegar entre ventanas en el espacio de trabajo actual.
 - <kbd>Windows</kbd> + <kbd>D</kbd>: Abrir Rofi. Presiona <kbd>Esc</kbd> para salir.
-- <kbd>Windows</kbd> + <kbd>(1,2,3,4,5,6,7,8,9,0)</kbd>: Cambiar al espacio de trabajo respectivo.
+
+#Ventana
+# WM(windows manager)
+# Ventanas
+- <kbd>Windows</kbd> + <kbd>W</kbd>: Cerrar la ventana actual.
+- <kbd>Windows</kbd> + <kbd>(⬆⬅⬇➡)</kbd>: Navegar entre ventanas en el espacio de trabajo actual.
 - <kbd>Windows</kbd> + <kbd>T</kbd>: Cambiar la ventana actual al modo mosaico.
 - <kbd>Windows</kbd> + <kbd>M</kbd>: Alternar la ventana actual al modo "completo" (no ocupa la barra de herramientas). Presiona las mismas teclas para volver al modo mosaico.
 - <kbd>Windows</kbd> + <kbd>F</kbd>: Cambiar la ventana actual al modo de pantalla completa (ocupa toda la pantalla, incluida la barra de herramientas).
@@ -53,8 +57,12 @@ chmod +x setup.sh
 - <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>(1,2,3,4,5,6,7,8,9,0)</kbd>: Mover la ventana actual a otro espacio de trabajo.
 - <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>(⬆⬅⬇➡)</kbd>: Cambiar el tamaño de la ventana actual (solo funciona si está en modo flotante).
 - <kbd>Windows</kbd> + <kbd>Ctrl</kbd> + <kbd>(⬆⬅⬆➡)</kbd>: Cambiar la posición de la ventana actual (solo funciona si está en modo flotante).
-- <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>: Abrir Firefox.
-- <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>: Abrir Burpsuite.
+
+#
+#SISTEMA
+- <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>R</kbd>: Reiniciar la configuración de bspwm.
+- <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd>: Cerrar sesión.
+- <kbd>Windows</kbd> + <kbd>(1,2,3,4,5,6,7,8,9,0)</kbd>: Cambiar al espacio de trabajo respectivo.
 - <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd>: Bloquear la pantalla.
 - <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>⬆⬇</kbd>: Aumentar/disminuir el volumen.
 - <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>: Silenciar/activar el sonido.
