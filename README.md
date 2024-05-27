@@ -64,7 +64,7 @@ chmod +x setup.sh
     <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Z</kbd>: Amplía la subventana actual. 🔍
     <kbd>Ctrl</kbd> + <kbd>(⬆⬅⬇➡)</kbd>: Navega entre subventanas en la ventana actual. 🧭
     <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>: Cambia el tamaño de la subventana actual. Después, usa:
-        <kbd>W</kbd> para 'Más ancho'
+<kbd>W</kbd> para 'Más ancho'
         <kbd>N</kbd> para 'Más estrecho'
         <kbd>T</kbd> para 'Más alto'
         <kbd>S</kbd> para 'Más corto'
@@ -77,10 +77,10 @@ chmod +x setup.sh
     <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>(⬅➡)</kbd>: Navega entre las pestañas actuales. 🔄
     <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>: Copiar al portapapeles. 📋
     <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd>: Pegar desde el portapapeles. 📋
-    <kbd>F1</kbd>: Copiar en el buffer A. 📋
-    <kbd>F2</kbd>: Pegar desde el buffer A. 📋
-    <kbd>F3</kbd>: Copiar en el buffer B. 📋
-    <kbd>F4</kbd>: Pegar desde el buffer B. 📋
+<kbd>F1</kbd>: Copiar en el buffer A. 📋
+<kbd>F2</kbd>: Pegar desde el buffer A. 📋
+<kbd>F3</kbd>: Copiar en el buffer B. 📋
+<kbd>F4</kbd>: Pegar desde el buffer B. 📋
     
 ## Software
 This configuration uses the following software:
