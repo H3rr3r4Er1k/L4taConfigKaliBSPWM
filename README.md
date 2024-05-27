@@ -39,18 +39,18 @@ chmod +x setup.sh
 
 
 ## Atajos de Teclado
-    <kbd>Windows</kbd> + <kbd>Enter</kbd>: Abre una ventana de emulador de terminal (kitty). 🖥️
-    <kbd>Windows</kbd> + <kbd>W</kbd>: Cierra la ventana actual. 🪟
-    <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>R</kbd>: Reinicia la configuración de bspwm. 🔄
-    <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd>: Cierra la sesión. 🚪
-    <kbd>Windows</kbd> + <kbd>(⬆⬅⬇➡)</kbd>: Navega entre ventanas en el espacio de trabajo actual. 🧭
-    <kbd>Windows</kbd> + <kbd>D</kbd>: Abre Rofi. Presiona <kbd>Esc</kbd> para salir. 🕵️
-    <kbd>Windows</kbd> + <kbd>(1,2,3,4,5,6,7,8,9,0)</kbd>: Cambia al espacio de trabajo respectivo. 🏢
-    <kbd>Windows</kbd> + <kbd>T</kbd>: Cambia la ventana actual al modo mosaico. 🖼️
-    <kbd>Windows</kbd> + <kbd>M</kbd>: Alternar la ventana actual al modo "completo" (no ocupa la polybar). Presiona las mismas teclas para volver al modo mosaico. 🔄
-    <kbd>Windows</kbd> + <kbd>F</kbd>: Cambia la ventana actual al modo de pantalla completa (ocupa toda la pantalla, incluida la polybar). 🖥️
-    <kbd>Windows</kbd> + <kbd>S</kbd>: Cambia la ventana actual al modo flotante. 🌊
-    <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>(1,2,3,4,5,6,7,8,9,0)</kbd>: Mueve la ventana actual a otro espacio de trabajo. 🚚
+<kbd>Windows</kbd> + <kbd>Enter</kbd>: Abre una ventana de emulador de terminal (kitty). 🖥️
+<kbd>Windows</kbd> + <kbd>W</kbd>: Cierra la ventana actual. 🪟
+<kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>R</kbd>: Reinicia la configuración de bspwm. 🔄
+<kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd>: Cierra la sesión. 🚪
+<kbd>Windows</kbd> + <kbd>(⬆⬅⬇➡)</kbd>: Navega entre ventanas en el espacio de trabajo actual. 🧭
+<kbd>Windows</kbd> + <kbd>D</kbd>: Abre Rofi. Presiona <kbd>Esc</kbd> para salir. 🕵️
+<kbd>Windows</kbd> + <kbd>(1,2,3,4,5,6,7,8,9,0)</kbd>: Cambia al espacio de trabajo respectivo. 🏢
+<kbd>Windows</kbd> + <kbd>T</kbd>: Cambia la ventana actual al modo mosaico. 🖼️
+<kbd>Windows</kbd> + <kbd>M</kbd>: Alternar la ventana actual al modo "completo" (no ocupa la polybar). Presiona las mismas teclas para volver al modo mosaico. 🔄
+<kbd>Windows</kbd> + <kbd>F</kbd>: Cambia la ventana actual al modo de pantalla completa (ocupa toda la pantalla, incluida la polybar). 🖥️
+<kbd>Windows</kbd> + <kbd>S</kbd>: Cambia la ventana actual al modo flotante. 🌊
+<kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>(1,2,3,4,5,6,7,8,9,0)</kbd>: Mueve la ventana actual a otro espacio de trabajo. 🚚
     <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>(⬆⬅⬇➡)</kbd>: Cambia el tamaño de la ventana actual (solo funciona si está en modo flotante). 📏
     <kbd>Windows</kbd> + <kbd>Ctrl</kbd> + <kbd>(⬆⬅⬆➡)</kbd>: Cambia la posición de la ventana actual (solo funciona si está en modo flotante). 📐
     <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>: Abre Firefox. 🦊
